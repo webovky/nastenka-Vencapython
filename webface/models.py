@@ -14,3 +14,4 @@ class Uzivatel(db.Entity):
 
 
 db.generate_mapping(create_tables=True)
+
